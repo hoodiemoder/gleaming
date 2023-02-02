@@ -1,0 +1,9 @@
+name = "gleaming"
+version = "0.0.1"
+description = "gleam dreaming"
+
+[dependencies]
+gleam_stdlib = "~> 0.26"
+
+[dev-dependencies]
+gleeunit = "~> 0.10"
