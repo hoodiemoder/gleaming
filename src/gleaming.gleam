@@ -1,6 +1,5 @@
 import gleam/io
 
-
 pub fn logo() {
   // Prints out project logo.
   io.println("gleam dreaming.\n")
@@ -27,10 +26,10 @@ pub fn div(x, y) {
 }
 
 pub fn operator_test() {
-  add(1,2)
-  sub(3,4)
-  mul(5,6)
-  div(7,8)
+  add(1, 2)
+  sub(3, 4)
+  mul(5, 6)
+  div(7, 8)
 }
 
 pub fn main() {
