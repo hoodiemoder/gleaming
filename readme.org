@@ -1,11 +1,15 @@
 * gleaming
 Gleam dreaming
+
 * cheat sheet
 // Run the project
+
 gleam run
 
 // Run the tests
+
 gleam test
 
 // Run an Erlang shell
+
 gleam shell
