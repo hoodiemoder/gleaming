@@ -1,26 +1,27 @@
 import gleam/io
 
-fn logo() {
+
+pub fn logo() {
   // Prints out project logo.
   io.println("gleam dreaming.\n")
 }
 
-fn add(x, y) {
+pub fn add(x, y) {
   // Integer addition.
   x + y
 }
 
-fn sub(x, y) {
+pub fn sub(x, y) {
   // Integer subtraction.
   x - y
 }
 
-fn mul(x, y) {
+pub fn mul(x, y) {
   // Integer multiplication.
   x * y
 }
 
-fn div(x, y) {
+pub fn div(x, y) {
   // Integer division.
   x / y
 }
