@@ -1,5 +1,5 @@
 * gleaming
-Gleam dreaming
+gleam dreaming.
 
 * cheat sheet
 // Run the project
