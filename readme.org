@@ -1,15 +1,7 @@
 * gleaming
-gleam dreaming.
 
-* cheat sheet
-// Run the project
+Basically hello world.
 
-gleam run
+* output
 
-// Run the tests
-
-gleam test
-
-// Run an Erlang shell
-
-gleam shell
+`ｇｌｅａｍ．ｄｒｅａｍｉｎｇ
