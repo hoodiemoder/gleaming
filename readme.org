@@ -4,4 +4,8 @@ Basically hello world.
 
 * output
 
-`ｇｌｅａｍ．ｄｒｅａｍｉｎｇ
+ｇｌｅａｍ．ｄｒｅａｍｉｎｇ
+
+*why?
+
+Gleam color is cool
