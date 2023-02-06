@@ -1,5 +1,6 @@
 name: self-hosted-test
-env: ubuntu22
+env:
+  ImageOS: ubuntu22
 on:
   push:
     branches:
