@@ -10,4 +10,4 @@ Basically hello world.
 
 * why?
 
-[[img/gleam.png]]
+[[img/languages-gleam.png]]
