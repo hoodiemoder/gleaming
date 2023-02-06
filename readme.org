@@ -4,8 +4,10 @@ Basically hello world.
 
 * output
 
+#+begin_src
 ｇｌｅａｍ．ｄｒｅａｍｉｎｇ
+#+end_src
 
-*why?
+* why?
 
-Gleam color is cool
+[[gleam.png]]
