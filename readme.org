@@ -1,6 +1,6 @@
 * gleaming
 
-Basically hello world.
+Basically hello world, but aesthetic?
 
 * output
 
