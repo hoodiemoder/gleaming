@@ -1,2 +1,2 @@
-[[img/gleam-dreaming-banner.svg]]
-[[img/languages-gleam.png]]
+[[gleam-dreaming-banner.svg]]
+[[languages-gleam.png]]
