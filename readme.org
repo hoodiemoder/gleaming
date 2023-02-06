@@ -10,4 +10,4 @@ Basically hello world.
 
 * why?
 
-[[gleam.png]]
+[[img/gleam.png]]
