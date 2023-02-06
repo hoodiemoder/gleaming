@@ -3,6 +3,7 @@ name: ubuntu-latest-test
 on:
   push:
     branches:
+      - master-uwu
       - master
       - main
   pull_request:
