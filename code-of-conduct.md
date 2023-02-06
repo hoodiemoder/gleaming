@@ -2,16 +2,16 @@
 
 ## 🌸 Ouw Pwedge 🌸
 
-We as cute people (everyone) pledge to make participation in our community a
+We as cute people (everyone) pledge to make participation in our cute place a
 harassment-free experience for everyone, regardless of anything.
 
 We pledge to be and interact in ways that contribute to
-an open, welcoming, diverse, inclusive and positive community.
+an open, welcoming, diverse, inclusive and positive cute place.
 
 ## 🌸 Ouw Stwandards 🌸
 
 Examples of behavior that contributes to a cute and happy environment
-for our community include:
+for our cute place include:
 
 * Be cute!
 * Think in a bigger scale
@@ -49,9 +49,9 @@ decisions when appropriate.
 
 ## 🌸 Scwope 🌸
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
+This Code of Conduct applies within all cute place, and also applies when
+an individual is officially representing the cute place in public spaces.
+Examples of representing our cute place include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
@@ -63,63 +63,65 @@ hoodiemdoer@pm.me
 
 All complaints will be reviewed and investigated promptly and fairly.
 
-All community leaders are obligated to respect the privacy and security of the
+All cute people are obligated to respect the privacy and security of the
 reporter of any incident.
 
 ## 🌸 Enfworcement Gwidelines 🌸
 
-Cute people will follow these Community Impact Guidelines in determining
+Cute people will follow these Cute Place Impact Guidelines in determining
 the consequences for any action they evaluate as in violation of this Code of Conduct:
 
 ### i. Correction
 
-**Community Impact**: Use of inappropriate language or other behavior evaluated as
-unprofessional, not cute or unwelcome in the community.
+**Cute Place Impact**: Use of inappropriate language or other behavior evaluated as
+unprofessional, not cute or unwelcome in the cute place.
 
-**Consequence**: A private, written warning from community leaders, providing
+**Consequence**: A private, written warning from cute people, providing
 clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
 
 ### ii. Warning
 
-**Community Impact**: A violation through a single incident or series
+**Cute Place Impact**: A violation through a single incident or series
 of actions.
 
 **Consequence**: A warning with consequences for continued behavior. No
 interaction with the people involved, including unsolicited interaction with
 those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
+includes avoiding interactions in cute place as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
 ### iii. Temporary Ban
 
-**Community Impact**: A serious violation of community standards, including
+**Cute place Impact**: A serious violation of cute place standards, including
 sustained inappropriate behavior.
 
 **Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
+communication with the cute place for a specified period of time. No public or
 private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
 ### iv. Permanent Ban
 
-**Community Impact**: Demonstrating a pattern of violation of community
+**Cute place Impact**: Demonstrating a pattern of violation of cute place
 standards, including sustained inappropriate behavior,  harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within
-the community.
+the cute place.
 
 ## 🌸 Attwibwution 🌸
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+This Code of Conduct 
+(🌸 Cwontribwutor Cwovenyant Cwode of Cwonduct uwu 🌸)
+is adapted from the [Contributor Covenant][homepage],
 version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+Cute place Impact Guidelines were inspired by
+[Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
 
