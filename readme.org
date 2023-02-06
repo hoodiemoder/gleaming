@@ -1,6 +1,6 @@
 * gleaming
 
-Basically hello world, but cute.
+Hello world, but cute.
 
 * output
 
