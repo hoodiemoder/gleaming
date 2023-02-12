@@ -5,7 +5,7 @@ Hello world, but cute.
 * output
 
 #+begin_src
-ｇｌｅａｍ．ｄｒｅａｍｉｎｇ
+🌸 ｇｌｅａｍ．ｄｒｅａｍｉｎｇ 🌸
 #+end_src
 
 * why?
