@@ -21,14 +21,12 @@ for our cute place include:
 * Taking responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
 
-
 Examples of unacceptable behavior include:
 
 * Public or private harassment
 * Using sexualized language or imagery, and sexual attention or
   advances of any kind
-* Being evil, trolling, insulting or derogatory comments,
-  and personal or attacks of any kind
+* Being evil, trolling, insulting or derogatory comments, and personal or attacks of any kind
 * Other conduct which could reasonably be considered not cute and
 * inappropriate in a professional setting
 * Publishing others' private information, such as a physical address
@@ -59,7 +57,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, not cute or otherwise unacceptable behavior may be
 reported to the cute people responsible for enforcement at
-hoodiemdoer@pm.me
+hoodiemoder@pm.me
 
 All complaints will be reviewed and investigated promptly and fairly.
 
