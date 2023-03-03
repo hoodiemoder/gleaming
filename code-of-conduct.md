@@ -59,7 +59,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, not cute or otherwise unacceptable behavior may be
 reported to the cute people responsible for enforcement at
-hoodiemdoer@pm.me
+hoodiemder@pm.me
 
 All complaints will be reviewed and investigated promptly and fairly.
 
