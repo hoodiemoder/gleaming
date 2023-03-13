@@ -2,35 +2,31 @@
 
 ## 🌸 Ouw Pwedge 🌸
 
-We as cute people (everyone) pledge to make participation in our cute place a
-harassment-free experience for everyone, regardless of anything.
+We as cute people (everyone) pledge to make participation in our cute place
+a harassment-free experience for everyone, regardless of any reason.
 
-We pledge to be and interact in ways that contribute to
-an open, welcoming, diverse, inclusive and positive cute place.
+We pledge to behave and interact in ways that contribute to
+an open, welcoming, diverse, inclusive, positive and cute place.
 
 ## 🌸 Ouw Stwandards 🌸
 
 Examples of behavior that contributes to a cute and happy environment
-for our cute place include:
+for our cute place includes:
 
 * Be cute!
 * Think in a bigger scale
 * Being empathetic and kind to everyone
 * Giving and gracefully accepting constructive feedback
 * Being respectful of all opinions, viewpoints and experiences
-* Taking responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
+* Taking responsibility and apologizing to those affected by our mistakes, and learning from it
 
 Examples of unacceptable behavior include:
 
 * Public or private harassment
-* Using sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Being evil, trolling, insulting or derogatory comments, and personal or attacks of any kind
-* Other conduct which could reasonably be considered not cute and
-* inappropriate in a professional setting
-* Publishing others' private information, such as a physical address
-*  or contact information without their explicit permission
+* Using sexualized language or imagery, and sexual attention or advances
+* Being evil, insulting or derogatory comments, and personal or attacks of any kind
+* Other conduct which could reasonably be considered not cute and inappropriate
+* Publishing others' private information without their explicit permission
 
 
 ## 🌸 Enfworcement Wespwonsibiwities 🌸
@@ -42,12 +38,12 @@ inappropriate, threatening, offensive, harmful or not cute.
 
 Cute people have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
+not aligned to this Cwode of Cwonduct, and will communicate reasons for moderation
 decisions when appropriate.
 
 ## 🌸 Scwope 🌸
 
-This Code of Conduct applies within all cute place, and also applies when
+This Cwode of Cwonduct applies within all cute place, and also applies when
 an individual is officially representing the cute place in public spaces.
 Examples of representing our cute place include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
@@ -67,7 +63,7 @@ reporter of any incident.
 ## 🌸 Enfworcement Gwidelines 🌸
 
 Cute people will follow these Cute Place Impact Guidelines in determining
-the consequences for any action they evaluate as in violation of this Code of Conduct:
+the consequences for any action they evaluate as in violation of this Cwode of Cwonduct:
 
 ### i. Correction
 
@@ -85,7 +81,7 @@ of actions.
 
 **Consequence**: A warning with consequences for continued behavior. No
 interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
+those enforcing the Cwode of Cwonduct, for a specified period of time. This
 includes avoiding interactions in cute place as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
@@ -98,7 +94,7 @@ sustained inappropriate behavior.
 **Consequence**: A temporary ban from any sort of interaction or public
 communication with the cute place for a specified period of time. No public or
 private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
+with those enforcing the Cwode of Cwonduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
 ### iv. Permanent Ban
